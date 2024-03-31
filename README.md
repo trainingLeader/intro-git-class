@@ -1,1 +1,1 @@
-# intro-git-class
+# Introduccion a github
